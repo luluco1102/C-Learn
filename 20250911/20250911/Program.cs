@@ -48,12 +48,11 @@
             for( int i =0; i < 4; i++)
             {
                 // 조건 0,0 일때 위에랑 왼쪽 값이 없다 그 값일때는 더해주지 않도록 해야된다.
-                int pY = dY[i];
-                int pX = dX[i];
-                if(Y-pY >=0 && X-pX >=0 && Y-pY <=2 && X-pX <=2)
-                {
-                    map[Y - pY, X - pX]++;
-                }
+                int pY =Y + dY[i];
+                int pX =X + dX[i];
+                if ((pY < 0 || pY >= map.GetLength(0)) || (pX < 0 || pX >= map.GetLength(1)))
+                    continue;
+                map[pY, pX]++;
                 
             }
 
