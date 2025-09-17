@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\bin\Debug\net9.0\20250917.exe
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\bin\Debug\net9.0\20250917.deps.json
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\bin\Debug\net9.0\20250917.runtimeconfig.json
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\bin\Debug\net9.0\20250917.dll
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\bin\Debug\net9.0\20250917.pdb
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\obj\Debug\net9.0\20250917.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\obj\Debug\net9.0\20250917.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\obj\Debug\net9.0\20250917.AssemblyInfo.cs
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\obj\Debug\net9.0\20250917.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\obj\Debug\net9.0\20250917.sourcelink.json
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\obj\Debug\net9.0\20250917.dll
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\obj\Debug\net9.0\refint\20250917.dll
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\obj\Debug\net9.0\20250917.pdb
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\obj\Debug\net9.0\20250917.genruntimeconfig.cache
+C:\Users\user\Documents\Github\C-Learn\20250917\20250917\obj\Debug\net9.0\ref\20250917.dll
